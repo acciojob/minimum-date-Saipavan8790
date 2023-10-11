@@ -22,8 +22,6 @@ function minDate(dates) {
   return `${year}/${month}/${day}`;
 }
 
-}
-
 // Do not change the code
 
 var dates = [
